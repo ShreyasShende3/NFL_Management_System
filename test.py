@@ -1,32 +1,47 @@
-import requests
-from bs4 import BeautifulSoup, Comment
 import pandas as pd
+import requests
+from bs4 import BeautifulSoup
+import os
 
-team_data = ['crd', 'atl', 'rav', 'buf', 'car', 'chi', 'cin', 'cle', 'dal', 'den', 'det', 'gnb', 'htx', 'clt', 'jax', 'kan', 'mia', 'min', 'nwe', 'nor', 'nyg', 'nyj', 'rai', 'phi', 'pit', 'sdg', 'sfo', 'sea', 'ram', 'tam', 'oti', 'was']
-year = ["2021", "2022", "2023"]
+years = ["2021", "2022", "2023"]
+data = []
 
-# Initialize an empty DataFrame
-final_dataframe = pd.DataFrame()
+for year in years:
+    url = f"https://www.pro-football-reference.com/years/{year}/games.htm"
+    response = requests.get(url)
+    content = response.content
+    soup = BeautifulSoup(content, "html.parser")
+    table = soup.find("table", id="games")
+    rows = table.find_all("tr")
 
-for current_year in year:
-    for current_team in team_data:
-        # URL of the webpage
-        url = "https://www.pro-football-reference.com/teams/" + current_team + "/" + current_year + "_roster.htm"
-        print(url)
-        # Get the HTML content
-        response = requests.get(url)
-        content = response.content
+    # Check if the first row contains a header element
+    is_header_row = "th" in rows[0].find_all(["th", "td"])
 
-        # Parse the HTML content
-        soup = BeautifulSoup(content, "html.parser")
+    # Skip the first row if it's a header row
+    rows = rows[0:] if is_header_row else rows
 
-        # Find the commented-out HTML
-        commented_html = soup.find_all(string=lambda text: isinstance(text, Comment))
-        uncommented_soup = BeautifulSoup(str(commented_html), 'html.parser')
-        print(uncommented_soup)
-        # Find the target table
-        table = uncommented_soup.find("table")
-        print(table)
+    boxscore_links = table.find_all("a", href=lambda href: href and "boxscore" in href)
+    match_ids = [os.path.basename(link["href"]).replace(".htm", "") for link in boxscore_links]
 
+    for row, match_id in zip(rows, match_ids):
+        game_date = row.find("td", {"data-stat": "game_date"})
+        winner_team = row.find("td", {"data-stat": "winner"})
+        loser_team = row.find("td", {"data-stat": "loser"})
+        pts_win = row.find("td", {"data-stat": "pts_win"})
+        pts_lose = row.find("td", {"data-stat": "pts_lose"})
 
+        # Skip the row if any of the required data is missing
+        if not (game_date and winner_team and loser_team and pts_win and pts_lose):
+            continue
 
+        game_date = game_date.text.strip()
+        winner = winner_team.text.strip()
+        loser = loser_team.text.strip()
+        pts_w = pts_win.text.strip()
+        pts_l = pts_lose.text.strip()
+
+        data.append([winner, loser, pts_w, pts_l, game_date])
+
+# Create DataFrame
+df = pd.DataFrame(data, columns=['Winner Team','Loser Team','Pts_W', 'Pts_L', 'match_date'])
+df.to_csv("results.csv", index=False)
