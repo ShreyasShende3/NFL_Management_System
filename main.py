@@ -10,6 +10,8 @@ year = ["2021", "2022", "2023"]
 # Initialize an empty DataFrame
 final_dataframe = pd.DataFrame()
 
+player_id_counter = 1
+
 for current_year in year:
     for abbreviation in team_data:
         # URL of the webpage
@@ -41,9 +43,6 @@ for current_year in year:
                     headers.insert(0, "PlayerID")  # Add PlayerID as the first header
                     data.append(headers)
 
-                    # Counter for generating unique PlayerID
-                    player_id_counter = 1
-
                     for row in table.find_all("tr")[1:-1]:  # Skip the header row and the last row
                         columns = row.find_all(["th", "td"])
 
@@ -74,5 +73,5 @@ for current_year in year:
 # Print the shape of the final DataFrame
 print("Shape of the final DataFrame:", final_dataframe.shape)
 
-final_dataframe.to_csv("output.csv",index=False)
+final_dataframe.to_csv("players.csv",index=False)
 
