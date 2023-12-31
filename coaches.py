@@ -1,18 +1,7 @@
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-
-url = "https://pro-football-reference.com/years/2021/coaches.htm"
-
-response = requests.get(url)
-content = response.content
-
-soup = BeautifulSoup(content, "html.parser")
-
-# Find all tables with the id "coaches"
-tables = soup.find_all("table", id="coaches")
-
-# Create an empty list to store the data
+import time
 data = []
 
 # Define the list of seasons
@@ -21,6 +10,16 @@ seasons = ["2021", "2022", "2023"]
 # Iterate over each season
 for season in seasons:
     # Iterate over each table in the ResultSet
+    url = "https://pro-football-reference.com/years/" + str(season) + "/coaches.htm"
+
+    response = requests.get(url)
+    content = response.content
+
+    soup = BeautifulSoup(content, "html.parser")
+
+    # Find all tables with the id "coaches"
+    tables = soup.find_all("table", id="coaches")
+
     for table in tables:
         # Find all rows in the current table
         rows = table.find_all("tr")
@@ -34,7 +33,7 @@ for season in seasons:
             # Append the extracted data to the list with the current season
             if coach and team:
                 data.append([coach.get_text(strip=True), team.get_text(strip=True), season])
-
+            time.sleep(0.5)
 # Create a DataFrame from the extracted data
 df = pd.DataFrame(data, columns=["Coach", "Team", "Season_ID"])
 
