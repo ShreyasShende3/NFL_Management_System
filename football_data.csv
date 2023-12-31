@@ -1,0 +1,789 @@
+Match_ID,Team,Score,match_date
+202109120atl,Tampa Bay Buccaneers,31,2021-09-09
+202109120buf,Philadelphia Eagles,32,2021-09-12
+202109120car,Pittsburgh Steelers,23,2021-09-12
+202109120cin,Carolina Panthers,19,2021-09-12
+202109120clt,Cincinnati Bengals,27,2021-09-12
+202109120oti,Seattle Seahawks,28,2021-09-12
+202109120det,Arizona Cardinals,38,2021-09-12
+202109120htx,San Francisco 49ers,41,2021-09-12
+202109120was,Houston Texans,37,2021-09-12
+202109120kan,Los Angeles Chargers,20,2021-09-12
+202109120nyg,Kansas City Chiefs,33,2021-09-12
+202109120nor,Denver Broncos,27,2021-09-12
+202109120nwe,New Orleans Saints,38,2021-09-12
+202109120ram,Miami Dolphins,17,2021-09-12
+202109130rai,Los Angeles Rams,34,2021-09-12
+202109160was,Las Vegas Raiders,33,2021-09-13
+202109190car,Washington Football Team,30,2021-09-16
+202109190chi,Buffalo Bills,35,2021-09-19
+202109190cle,Carolina Panthers,26,2021-09-19
+202109190clt,Chicago Bears,20,2021-09-19
+202109190jax,Cleveland Browns,31,2021-09-19
+202109190nyj,Los Angeles Rams,27,2021-09-19
+202109190phi,Denver Broncos,23,2021-09-19
+202109190pit,New England Patriots,25,2021-09-19
+202109190tam,San Francisco 49ers,17,2021-09-19
+202109190crd,Las Vegas Raiders,26,2021-09-19
+202109190sdg,Tampa Bay Buccaneers,48,2021-09-19
+202109190sea,Arizona Cardinals,34,2021-09-19
+202109190rav,Dallas Cowboys,20,2021-09-19
+202109200gnb,Tennessee Titans,33,2021-09-19
+202109230htx,Baltimore Ravens,36,2021-09-19
+202109260nyg,Green Bay Packers,35,2021-09-20
+202109260cle,Carolina Panthers,24,2021-09-23
+202109260pit,Atlanta Falcons,17,2021-09-26
+202109260oti,Buffalo Bills,43,2021-09-26
+202109260jax,Cleveland Browns,26,2021-09-26
+202109260det,Cincinnati Bengals,24,2021-09-26
+202109260kan,Tennessee Titans,25,2021-09-26
+202109260nwe,Arizona Cardinals,31,2021-09-26
+202109260den,Baltimore Ravens,19,2021-09-26
+202109260rai,Los Angeles Chargers,30,2021-09-26
+202109260min,New Orleans Saints,28,2021-09-26
+202109260ram,Denver Broncos,26,2021-09-26
+202109260sfo,Las Vegas Raiders,31,2021-09-26
+202109270dal,Minnesota Vikings,30,2021-09-26
+202109300cin,Los Angeles Rams,34,2021-09-26
+202110030atl,Green Bay Packers,30,2021-09-26
+202110030buf,Dallas Cowboys,41,2021-09-27
+202110030chi,Cincinnati Bengals,24,2021-09-30
+202110030min,Washington Football Team,34,2021-10-03
+202110030mia,Buffalo Bills,40,2021-10-03
+202110030phi,Dallas Cowboys,36,2021-10-03
+202110030nor,Chicago Bears,24,2021-10-03
+202110030nyj,Cleveland Browns,14,2021-10-03
+202110030ram,Indianapolis Colts,27,2021-10-03
+202110030sfo,Kansas City Chiefs,42,2021-10-03
+202110030den,New York Giants,27,2021-10-03
+202110030gnb,New York Jets,27,2021-10-03
+202110030nwe,Arizona Cardinals,37,2021-10-03
+202110040sdg,Seattle Seahawks,28,2021-10-03
+202110070sea,Baltimore Ravens,23,2021-10-03
+202110100atl,Green Bay Packers,27,2021-10-03
+202110100car,Tampa Bay Buccaneers,19,2021-10-03
+202110100cin,Los Angeles Chargers,28,2021-10-04
+202110100min,Los Angeles Rams,26,2021-10-07
+202110100htx,Atlanta Falcons,27,2021-10-10
+202110100jax,Philadelphia Eagles,21,2021-10-10
+202110100tam,Green Bay Packers,25,2021-10-10
+202110100was,Pittsburgh Steelers,27,2021-10-10
+202110100rai,Minnesota Vikings,19,2021-10-10
+202110100sdg,New England Patriots,25,2021-10-10
+202110100crd,Tennessee Titans,37,2021-10-10
+202110100dal,Tampa Bay Buccaneers,45,2021-10-10
+202110100kan,New Orleans Saints,33,2021-10-10
+202110110rav,Chicago Bears,20,2021-10-10
+202110140phi,Los Angeles Chargers,47,2021-10-10
+202110170jax,Arizona Cardinals,17,2021-10-10
+202110170car,Dallas Cowboys,44,2021-10-10
+202110170chi,Buffalo Bills,38,2021-10-10
+202110170det,Baltimore Ravens,31,2021-10-11
+202110170was,Tampa Bay Buccaneers,28,2021-10-14
+202110170nyg,Jacksonville Jaguars,23,2021-10-17
+202110170rav,Minnesota Vikings,34,2021-10-17
+202110170cle,Green Bay Packers,24,2021-10-17
+202110170nwe,Cincinnati Bengals,34,2021-10-17
+202110170den,Indianapolis Colts,31,2021-10-17
+202110170pit,Kansas City Chiefs,31,2021-10-17
+202110180oti,Los Angeles Rams,38,2021-10-17
+202110210cle,Baltimore Ravens,34,2021-10-17
+202110240mia,Arizona Cardinals,37,2021-10-17
+202110240nyg,Dallas Cowboys,35,2021-10-17
+202110240rav,Las Vegas Raiders,34,2021-10-17
+202110240gnb,Pittsburgh Steelers,23,2021-10-17
+202110240oti,Tennessee Titans,34,2021-10-18
+202110240ram,Cleveland Browns,17,2021-10-21
+202110240rai,Atlanta Falcons,30,2021-10-24
+202110240tam,New York Giants,25,2021-10-24
+202110240crd,Cincinnati Bengals,41,2021-10-24
+202110240sfo,Green Bay Packers,24,2021-10-24
+202110250sea,Tennessee Titans,27,2021-10-24
+202110280crd,New England Patriots,54,2021-10-24
+202110310atl,Los Angeles Rams,28,2021-10-24
+202110310buf,Las Vegas Raiders,33,2021-10-24
+202110310chi,Tampa Bay Buccaneers,38,2021-10-24
+202110310nyj,Arizona Cardinals,31,2021-10-24
+202110310cle,Indianapolis Colts,30,2021-10-24
+202110310clt,New Orleans Saints,13,2021-10-25
+202110310htx,Green Bay Packers,24,2021-10-28
+202110310sea,Carolina Panthers,19,2021-10-31
+202110310sdg,Buffalo Bills,26,2021-10-31
+202110310nor,San Francisco 49ers,33,2021-10-31
+202110310den,New York Jets,34,2021-10-31
+202110310min,Pittsburgh Steelers,15,2021-10-31
+202111010kan,Tennessee Titans,34,2021-10-31
+202111040clt,Philadelphia Eagles,44,2021-10-31
+202111070nor,Los Angeles Rams,38,2021-10-31
+202111070jax,Seattle Seahawks,31,2021-10-31
+202111070dal,New England Patriots,27,2021-10-31
+202111070rav,New Orleans Saints,36,2021-10-31
+202111070car,Denver Broncos,17,2021-10-31
+202111070cin,Dallas Cowboys,20,2021-10-31
+202111070mia,Kansas City Chiefs,20,2021-11-01
+202111070phi,Indianapolis Colts,45,2021-11-04
+202111070sfo,Atlanta Falcons,27,2021-11-07
+202111070kan,Jacksonville Jaguars,9,2021-11-07
+202111070ram,Denver Broncos,30,2021-11-07
+202111080pit,Baltimore Ravens,34,2021-11-07
+202111110mia,New England Patriots,24,2021-11-07
+202111140dal,Cleveland Browns,41,2021-11-07
+202111140nyj,Miami Dolphins,17,2021-11-07
+202111140pit,New York Giants,23,2021-11-07
+202111140oti,Los Angeles Chargers,27,2021-11-07
+202111140was,Arizona Cardinals,31,2021-11-07
+202111140nwe,Kansas City Chiefs,13,2021-11-07
+202111140clt,Tennessee Titans,28,2021-11-07
+202111140sdg,Pittsburgh Steelers,29,2021-11-08
+202111140den,Miami Dolphins,22,2021-11-11
+202111140gnb,Dallas Cowboys,43,2021-11-14
+202111140rai,Buffalo Bills,45,2021-11-14
+202111150sfo,Pittsburgh Steelers,16,2021-11-14
+202111180atl,Tennessee Titans,23,2021-11-14
+202111210buf,Washington Football Team,29,2021-11-14
+202111210chi,New England Patriots,45,2021-11-14
+202111210oti,Indianapolis Colts,23,2021-11-14
+202111210jax,Minnesota Vikings,27,2021-11-14
+202111210phi,Carolina Panthers,34,2021-11-14
+202111210car,Philadelphia Eagles,30,2021-11-14
+202111210cle,Green Bay Packers,17,2021-11-14
+202111210min,Kansas City Chiefs,41,2021-11-14
+202111210nyj,San Francisco 49ers,31,2021-11-15
+202111210kan,New England Patriots,25,2021-11-18
+202111210sea,Indianapolis Colts,41,2021-11-21
+202111210sdg,Baltimore Ravens,16,2021-11-21
+202111220tam,Houston Texans,22,2021-11-21
+202111250det,San Francisco 49ers,30,2021-11-21
+202111250dal,Philadelphia Eagles,40,2021-11-21
+202111250nor,Washington Football Team,27,2021-11-21
+202111280jax,Cleveland Browns,13,2021-11-21
+202111280cin,Minnesota Vikings,34,2021-11-21
+202111280htx,Miami Dolphins,24,2021-11-21
+202111280nyg,Cincinnati Bengals,32,2021-11-21
+202111280mia,Kansas City Chiefs,19,2021-11-21
+202111280clt,Arizona Cardinals,23,2021-11-21
+202111280nwe,Los Angeles Chargers,41,2021-11-21
+202111280den,Tampa Bay Buccaneers,30,2021-11-22
+202111280gnb,Chicago Bears,16,2021-11-25
+202111280rav,Las Vegas Raiders,36,2021-11-25
+202111290was,Buffalo Bills,31,2021-11-25
+202112020nor,Atlanta Falcons,21,2021-11-28
+202112050atl,Cincinnati Bengals,41,2021-11-28
+202112050chi,New York Jets,21,2021-11-28
+202112050cin,New York Giants,13,2021-11-28
+202112050det,Miami Dolphins,33,2021-11-28
+202112050nyj,Tampa Bay Buccaneers,38,2021-11-28
+202112050htx,New England Patriots,36,2021-11-28
+202112050mia,Denver Broncos,28,2021-11-28
+202112050sea,San Francisco 49ers,34,2021-11-28
+202112050rai,Green Bay Packers,36,2021-11-28
+202112050ram,Baltimore Ravens,16,2021-11-28
+202112050pit,Washington Football Team,17,2021-11-29
+202112060buf,Dallas Cowboys,27,2021-12-02
+202112090min,Tampa Bay Buccaneers,30,2021-12-05
+202112120car,Arizona Cardinals,33,2021-12-05
+202112120cin,Los Angeles Chargers,41,2021-12-05
+202112120cle,Detroit Lions,29,2021-12-05
+202112120was,Philadelphia Eagles,33,2021-12-05
+202112120htx,Indianapolis Colts,31,2021-12-05
+202112120oti,Miami Dolphins,20,2021-12-05
+202112120kan,Seattle Seahawks,30,2021-12-05
+202112120nyj,Washington Football Team,17,2021-12-05
+202112120den,Los Angeles Rams,37,2021-12-05
+202112120sdg,Pittsburgh Steelers,20,2021-12-05
+202112120tam,Kansas City Chiefs,22,2021-12-05
+202112120gnb,New England Patriots,14,2021-12-06
+202112160sdg,Minnesota Vikings,36,2021-12-09
+202112180clt,Atlanta Falcons,29,2021-12-12
+202112190buf,San Francisco 49ers,26,2021-12-12
+202112190det,Cleveland Browns,24,2021-12-12
+202112190nyg,Dallas Cowboys,27,2021-12-12
+202112190rav,Seattle Seahawks,33,2021-12-12
+202112190jax,Tennessee Titans,20,2021-12-12
+202112190mia,Kansas City Chiefs,48,2021-12-12
+202112190pit,New Orleans Saints,30,2021-12-12
+202112190sfo,Denver Broncos,38,2021-12-12
+202112190den,Los Angeles Chargers,37,2021-12-12
+202112190tam,Tampa Bay Buccaneers,33,2021-12-12
+202112200cle,Green Bay Packers,45,2021-12-12
+202112200chi,Los Angeles Rams,30,2021-12-13
+202112210ram,Kansas City Chiefs,34,2021-12-16
+202112230oti,Indianapolis Colts,27,2021-12-18
+202112250gnb,Buffalo Bills,31,2021-12-19
+202112250crd,Detroit Lions,30,2021-12-19
+202112260atl,Dallas Cowboys,21,2021-12-19
+202112260nwe,Green Bay Packers,31,2021-12-19
+202112260car,Houston Texans,30,2021-12-19
+202112260cin,Miami Dolphins,31,2021-12-19
+202112260htx,Pittsburgh Steelers,19,2021-12-19
+202112260nyj,San Francisco 49ers,31,2021-12-19
+202112260min,Cincinnati Bengals,15,2021-12-19
+202112260phi,New Orleans Saints,9,2021-12-19
+202112260sea,Las Vegas Raiders,16,2021-12-20
+202112260rai,Minnesota Vikings,17,2021-12-20
+202112260kan,Philadelphia Eagles,27,2021-12-21
+202112260dal,Los Angeles Rams,20,2021-12-21
+202201020buf,Tennessee Titans,20,2021-12-23
+202201020nor,Green Bay Packers,24,2021-12-25
+202201020chi,Indianapolis Colts,22,2021-12-25
+202201020cin,Atlanta Falcons,20,2021-12-26
+202201020clt,Buffalo Bills,33,2021-12-26
+202201020dal,Tampa Bay Buccaneers,32,2021-12-26
+202201020nwe,Cincinnati Bengals,41,2021-12-26
+202201020oti,Houston Texans,41,2021-12-26
+202201020nyj,New York Jets,26,2021-12-26
+202201020was,Los Angeles Rams,30,2021-12-26
+202201020sdg,Philadelphia Eagles,34,2021-12-26
+202201020sfo,Chicago Bears,25,2021-12-26
+202201020sea,Las Vegas Raiders,17,2021-12-26
+202201020rav,Kansas City Chiefs,36,2021-12-26
+202201020gnb,Dallas Cowboys,56,2021-12-26
+202201030pit,Miami Dolphins,20,2021-12-27
+202201080phi,Buffalo Bills,29,2022-01-02
+202201090atl,New Orleans Saints,18,2022-01-02
+202201090tam,Chicago Bears,29,2022-01-02
+202201090min,Cincinnati Bengals,34,2022-01-02
+202201090cle,Las Vegas Raiders,23,2022-01-02
+202201090jax,Arizona Cardinals,25,2022-01-02
+202201090det,New England Patriots,50,2022-01-02
+202201090htx,Tennessee Titans,34,2022-01-02
+202201090mia,Tampa Bay Buccaneers,28,2022-01-02
+202201090nyg,Philadelphia Eagles,20,2022-01-02
+202201090rav,Los Angeles Chargers,34,2022-01-02
+202201090buf,San Francisco 49ers,23,2022-01-02
+202201090crd,Seattle Seahawks,51,2022-01-02
+202201090ram,Los Angeles Rams,20,2022-01-02
+202201090rai,Green Bay Packers,37,2022-01-02
+202201150cin,Pittsburgh Steelers,26,2022-01-03
+202201160tam,Kansas City Chiefs,28,2022-01-08
+202201160dal,Dallas Cowboys,51,2022-01-08
+202201160kan,New Orleans Saints,30,2022-01-09
+202201170ram,Tampa Bay Buccaneers,41,2022-01-09
+202201220oti,Minnesota Vikings,31,2022-01-09
+202201220gnb,Cleveland Browns,21,2022-01-09
+202201230tam,Jacksonville Jaguars,26,2022-01-09
+202201230kan,Detroit Lions,37,2022-01-09
+202201300kan,Tennessee Titans,28,2022-01-09
+202201300ram,Miami Dolphins,33,2022-01-09
+202202130cin,Washington Football Team,22,2022-01-09
+202209110atl,Buffalo Bills,31,2022-09-08
+202209110car,New Orleans Saints,27,2022-09-11
+202209110chi,Cleveland Browns,26,2022-09-11
+202209110cin,Chicago Bears,19,2022-09-11
+202209110htx,Pittsburgh Steelers,23,2022-09-11
+202209110det,Houston Texans,20,2022-09-11
+202209110was,Philadelphia Eagles,38,2022-09-11
+202209110mia,Washington Commanders,28,2022-09-11
+202209110nyj,Miami Dolphins,20,2022-09-11
+202209110crd,Baltimore Ravens,24,2022-09-11
+202209110min,Kansas City Chiefs,44,2022-09-11
+202209110oti,Minnesota Vikings,23,2022-09-11
+202209110sdg,New York Giants,21,2022-09-11
+202209110dal,Los Angeles Chargers,24,2022-09-11
+202209120sea,Tampa Bay Buccaneers,19,2022-09-11
+202209150kan,Seattle Seahawks,17,2022-09-12
+202209180cle,Kansas City Chiefs,27,2022-09-15
+202209180jax,New York Giants,19,2022-09-18
+202209180det,New York Jets,31,2022-09-18
+202209180rav,Jacksonville Jaguars,24,2022-09-18
+202209180nor,Detroit Lions,36,2022-09-18
+202209180pit,Miami Dolphins,42,2022-09-18
+202209180ram,Tampa Bay Buccaneers,20,2022-09-18
+202209180sfo,New England Patriots,17,2022-09-18
+202209180dal,Los Angeles Rams,31,2022-09-18
+202209180rai,San Francisco 49ers,27,2022-09-18
+202209180den,Dallas Cowboys,20,2022-09-18
+202209180gnb,Arizona Cardinals,29,2022-09-18
+202209190buf,Denver Broncos,16,2022-09-18
+202209190phi,Green Bay Packers,27,2022-09-18
+202209220cle,Buffalo Bills,41,2022-09-19
+202209250mia,Philadelphia Eagles,24,2022-09-19
+202209250chi,Cleveland Browns,29,2022-09-22
+202209250nyj,Miami Dolphins,21,2022-09-25
+202209250clt,Carolina Panthers,22,2022-09-25
+202209250min,Chicago Bears,23,2022-09-25
+202209250nwe,Cincinnati Bengals,27,2022-09-25
+202209250oti,Indianapolis Colts,20,2022-09-25
+202209250was,Minnesota Vikings,28,2022-09-25
+202209250sdg,Baltimore Ravens,37,2022-09-25
+202209250sea,Tennessee Titans,24,2022-09-25
+202209250crd,Philadelphia Eagles,24,2022-09-25
+202209250tam,Jacksonville Jaguars,38,2022-09-25
+202209250den,Atlanta Falcons,27,2022-09-25
+202209260nyg,Los Angeles Rams,20,2022-09-25
+202209290cin,Green Bay Packers,14,2022-09-25
+202210020nor,Denver Broncos,11,2022-09-25
+202210020atl,Dallas Cowboys,23,2022-09-26
+202210020nyg,Cincinnati Bengals,27,2022-09-29
+202210020clt,Minnesota Vikings,28,2022-10-02
+202210020dal,Atlanta Falcons,23,2022-10-02
+202210020det,Buffalo Bills,23,2022-10-02
+202210020htx,New York Giants,20,2022-10-02
+202210020phi,Tennessee Titans,24,2022-10-02
+202210020pit,Dallas Cowboys,25,2022-10-02
+202210020car,Seattle Seahawks,48,2022-10-02
+202210020rai,Los Angeles Chargers,34,2022-10-02
+202210020gnb,Philadelphia Eagles,29,2022-10-02
+202210020tam,New York Jets,24,2022-10-02
+202210030sfo,Arizona Cardinals,26,2022-10-02
+202210060den,Las Vegas Raiders,32,2022-10-02
+202210090gnb,Green Bay Packers,27,2022-10-02
+202210090tam,Kansas City Chiefs,41,2022-10-02
+202210090buf,San Francisco 49ers,24,2022-10-03
+202210090cle,Indianapolis Colts,12,2022-10-06
+202210090nwe,New York Giants,27,2022-10-09
+202210090jax,Tampa Bay Buccaneers,21,2022-10-09
+202210090nyj,Buffalo Bills,38,2022-10-09
+202210090nor,Minnesota Vikings,29,2022-10-09
+202210090was,Los Angeles Chargers,30,2022-10-09
+202210090car,New England Patriots,29,2022-10-09
+202210090crd,Houston Texans,13,2022-10-09
+202210090ram,New York Jets,40,2022-10-09
+202210090rav,New Orleans Saints,39,2022-10-09
+202210100kan,Tennessee Titans,21,2022-10-09
+202210130chi,San Francisco 49ers,37,2022-10-09
+202210160atl,Philadelphia Eagles,20,2022-10-09
+202210160nor,Dallas Cowboys,22,2022-10-09
+202210160cle,Baltimore Ravens,19,2022-10-09
+202210160clt,Kansas City Chiefs,30,2022-10-10
+202210160mia,Washington Commanders,12,2022-10-13
+202210160nyg,Atlanta Falcons,28,2022-10-16
+202210160pit,Cincinnati Bengals,30,2022-10-16
+202210160ram,New England Patriots,38,2022-10-16
+202210160sea,Indianapolis Colts,34,2022-10-16
+202210160kan,New York Jets,27,2022-10-16
+202210160phi,Minnesota Vikings,24,2022-10-16
+202210170sdg,New York Giants,24,2022-10-16
+202210200crd,Pittsburgh Steelers,20,2022-10-16
+202210230cin,Los Angeles Rams,24,2022-10-16
+202210230car,Seattle Seahawks,19,2022-10-16
+202210230rav,Buffalo Bills,24,2022-10-16
+202210230oti,Philadelphia Eagles,26,2022-10-16
+202210230dal,Los Angeles Chargers,19,2022-10-17
+202210230jax,Arizona Cardinals,42,2022-10-20
+202210230rai,Cincinnati Bengals,35,2022-10-23
+202210230den,Carolina Panthers,21,2022-10-23
+202210230sfo,Baltimore Ravens,23,2022-10-23
+202210230sdg,Tennessee Titans,19,2022-10-23
+202210230mia,Dallas Cowboys,24,2022-10-23
+202210240nwe,Washington Commanders,23,2022-10-23
+202210270tam,New York Giants,23,2022-10-23
+202210300jax,Las Vegas Raiders,38,2022-10-23
+202210300det,New York Jets,16,2022-10-23
+202210300phi,Kansas City Chiefs,44,2022-10-23
+202210300atl,Seattle Seahawks,37,2022-10-23
+202210300dal,Miami Dolphins,16,2022-10-23
+202210300min,Chicago Bears,33,2022-10-24
+202210300nyj,Baltimore Ravens,27,2022-10-27
+202210300htx,Denver Broncos,21,2022-10-30
+202210300ram,Miami Dolphins,31,2022-10-30
+202210300clt,Philadelphia Eagles,35,2022-10-30
+202210300sea,Atlanta Falcons,37,2022-10-30
+202210300buf,Dallas Cowboys,49,2022-10-30
+202210310cle,Minnesota Vikings,34,2022-10-30
+202211030htx,New Orleans Saints,24,2022-10-30
+202211060nyj,New England Patriots,22,2022-10-30
+202211060det,Tennessee Titans,17,2022-10-30
+202211060was,San Francisco 49ers,31,2022-10-30
+202211060atl,Washington Commanders,17,2022-10-30
+202211060cin,Seattle Seahawks,27,2022-10-30
+202211060chi,Buffalo Bills,27,2022-10-30
+202211060nwe,Cleveland Browns,32,2022-10-31
+202211060crd,Philadelphia Eagles,29,2022-11-03
+202211060tam,New York Jets,20,2022-11-06
+202211060kan,Detroit Lions,15,2022-11-06
+202211070nor,Minnesota Vikings,20,2022-11-06
+202211100car,Los Angeles Chargers,20,2022-11-06
+202211130tam,Cincinnati Bengals,42,2022-11-06
+202211130buf,Miami Dolphins,35,2022-11-06
+202211130mia,New England Patriots,26,2022-11-06
+202211130oti,Jacksonville Jaguars,27,2022-11-06
+202211130nyg,Seattle Seahawks,31,2022-11-06
+202211130chi,Tampa Bay Buccaneers,16,2022-11-06
+202211130kan,Kansas City Chiefs,20,2022-11-06
+202211130pit,Baltimore Ravens,27,2022-11-07
+202211130gnb,Carolina Panthers,25,2022-11-10
+202211130ram,Tampa Bay Buccaneers,21,2022-11-13
+202211130sfo,Minnesota Vikings,33,2022-11-13
+202211140phi,Miami Dolphins,39,2022-11-13
+202211170gnb,Tennessee Titans,17,2022-11-13
+202211200buf,New York Giants,24,2022-11-13
+202211200nyg,Detroit Lions,31,2022-11-13
+202211200htx,Kansas City Chiefs,27,2022-11-13
+202211200nwe,Pittsburgh Steelers,20,2022-11-13
+202211200atl,Indianapolis Colts,25,2022-11-13
+202211200rav,Green Bay Packers,31,2022-11-13
+202211200clt,Arizona Cardinals,27,2022-11-13
+202211200nor,San Francisco 49ers,22,2022-11-13
+202211200den,Washington Commanders,32,2022-11-14
+202211200min,Tennessee Titans,27,2022-11-17
+202211200sdg,Buffalo Bills,31,2022-11-20
+202211210crd,Detroit Lions,31,2022-11-20
+202211240det,Washington Commanders,23,2022-11-20
+202211240dal,New England Patriots,10,2022-11-20
+202211240min,Atlanta Falcons,27,2022-11-20
+202211270oti,Baltimore Ravens,13,2022-11-20
+202211270cle,Philadelphia Eagles,17,2022-11-20
+202211270mia,New Orleans Saints,27,2022-11-20
+202211270jax,Las Vegas Raiders,22,2022-11-20
+202211270was,Cincinnati Bengals,37,2022-11-20
+202211270car,Dallas Cowboys,40,2022-11-20
+202211270nyj,Kansas City Chiefs,30,2022-11-20
+202211270sea,San Francisco 49ers,38,2022-11-21
+202211270kan,Buffalo Bills,28,2022-11-24
+202211270sfo,Dallas Cowboys,28,2022-11-24
+202211270phi,Minnesota Vikings,33,2022-11-24
+202211280clt,Cincinnati Bengals,20,2022-11-27
+202212010nwe,Cleveland Browns,23,2022-11-27
+202212040htx,Miami Dolphins,30,2022-11-27
+202212040rav,Jacksonville Jaguars,28,2022-11-27
+202212040det,Washington Commanders,19,2022-11-27
+202212040min,Carolina Panthers,23,2022-11-27
+202212040nyg,New York Jets,31,2022-11-27
+202212040phi,Las Vegas Raiders,40,2022-11-27
+202212040atl,Los Angeles Chargers,25,2022-11-27
+202212040chi,Kansas City Chiefs,26,2022-11-27
+202212040sfo,San Francisco 49ers,13,2022-11-27
+202212040ram,Philadelphia Eagles,40,2022-11-27
+202212040cin,Pittsburgh Steelers,24,2022-11-28
+202212040dal,Buffalo Bills,24,2022-12-01
+202212050tam,Cleveland Browns,27,2022-12-04
+202212080ram,Baltimore Ravens,10,2022-12-04
+202212110buf,Detroit Lions,40,2022-12-04
+202212110cin,Minnesota Vikings,27,2022-12-04
+202212110dal,Washington Commanders,20,2022-12-04
+202212110det,Philadelphia Eagles,35,2022-12-04
+202212110oti,Pittsburgh Steelers,19,2022-12-04
+202212110nyg,Green Bay Packers,28,2022-12-04
+202212110pit,San Francisco 49ers,33,2022-12-04
+202212110den,Seattle Seahawks,27,2022-12-04
+202212110sea,Cincinnati Bengals,27,2022-12-04
+202212110sfo,Las Vegas Raiders,27,2022-12-04
+202212110sdg,Dallas Cowboys,54,2022-12-04
+202212120crd,Tampa Bay Buccaneers,17,2022-12-05
+202212170min,Los Angeles Rams,17,2022-12-08
+202212170cle,Buffalo Bills,20,2022-12-11
+202212170buf,Cincinnati Bengals,23,2022-12-11
+202212180nor,Dallas Cowboys,27,2022-12-11
+202212180car,Detroit Lions,34,2022-12-11
+202212180chi,Jacksonville Jaguars,36,2022-12-11
+202212180jax,Philadelphia Eagles,48,2022-12-11
+202212180nyj,Baltimore Ravens,16,2022-12-11
+202212180htx,Kansas City Chiefs,34,2022-12-11
+202212180den,Carolina Panthers,30,2022-12-11
+202212180rai,San Francisco 49ers,35,2022-12-11
+202212180tam,Los Angeles Chargers,23,2022-12-11
+202212180sdg,New England Patriots,27,2022-12-12
+202212190gnb,San Francisco 49ers,21,2022-12-15
+202212220nyj,Minnesota Vikings,39,2022-12-17
+202212240rav,Cleveland Browns,13,2022-12-17
+202212240chi,Buffalo Bills,32,2022-12-17
+202212240car,New Orleans Saints,21,2022-12-18
+202212240nwe,Pittsburgh Steelers,24,2022-12-18
+202212240cle,Philadelphia Eagles,25,2022-12-18
+202212240oti,Jacksonville Jaguars,40,2022-12-18
+202212240kan,Detroit Lions,20,2022-12-18
+202212240min,Kansas City Chiefs,30,2022-12-18
+202212240sfo,Denver Broncos,24,2022-12-18
+202212240dal,Las Vegas Raiders,30,2022-12-18
+202212240pit,Cincinnati Bengals,34,2022-12-18
+202212250mia,Los Angeles Chargers,17,2022-12-18
+202212250ram,New York Giants,20,2022-12-18
+202212250crd,Green Bay Packers,24,2022-12-19
+202212290oti,Jacksonville Jaguars,19,2022-12-22
+202301010atl,Baltimore Ravens,17,2022-12-24
+202301010tam,Buffalo Bills,35,2022-12-24
+202301010det,Carolina Panthers,37,2022-12-24
+202301010was,Cincinnati Bengals,22,2022-12-24
+202301010nyg,New Orleans Saints,17,2022-12-24
+202301010kan,Houston Texans,19,2022-12-24
+202301010htx,Kansas City Chiefs,24,2022-12-24
+202301010nwe,Minnesota Vikings,27,2022-12-24
+202301010phi,San Francisco 49ers,37,2022-12-24
+202301010sea,Dallas Cowboys,40,2022-12-24
+202301010rai,Pittsburgh Steelers,13,2022-12-24
+202301010gnb,Green Bay Packers,26,2022-12-25
+202301010sdg,Los Angeles Rams,51,2022-12-25
+202301010rav,Tampa Bay Buccaneers,19,2022-12-25
+202301070rai,Los Angeles Chargers,20,2022-12-26
+202301080buf,Dallas Cowboys,27,2022-12-29
+202301080cin,Atlanta Falcons,20,2023-01-01
+202301080atl,Tampa Bay Buccaneers,30,2023-01-01
+202301080nor,Detroit Lions,41,2023-01-01
+202301080chi,Cleveland Browns,24,2023-01-01
+202301080pit,New York Giants,38,2023-01-01
+202301080clt,Kansas City Chiefs,27,2023-01-01
+202301080mia,Jacksonville Jaguars,31,2023-01-01
+202301080sfo,New England Patriots,23,2023-01-01
+202301080was,New Orleans Saints,20,2023-01-01
+202301080den,Seattle Seahawks,23,2023-01-01
+202301080phi,San Francisco 49ers,37,2023-01-01
+202301080sea,Green Bay Packers,41,2023-01-01
+202301080gnb,Los Angeles Chargers,31,2023-01-01
+202301140sfo,Pittsburgh Steelers,16,2023-01-01
+202301150buf,Kansas City Chiefs,31,2023-01-07
+202301150min,Jacksonville Jaguars,20,2023-01-07
+202301150cin,Buffalo Bills,35,2023-01-08
+202301160tam,Cincinnati Bengals,27,2023-01-08
+202301210kan,Atlanta Falcons,30,2023-01-08
+202301210phi,Carolina Panthers,10,2023-01-08
+202301220buf,Minnesota Vikings,29,2023-01-08
+202301220sfo,Pittsburgh Steelers,28,2023-01-08
+202301290phi,Houston Texans,32,2023-01-08
+202301290kan,Miami Dolphins,11,2023-01-08
+202302120phi,San Francisco 49ers,38,2023-01-08
+202309100atl,Detroit Lions,21,2023-09-07
+202309100cle,Atlanta Falcons,24,2023-09-10
+202309100clt,Cleveland Browns,24,2023-09-10
+202309100was,Jacksonville Jaguars,31,2023-09-10
+202309100rav,Washington Commanders,20,2023-09-10
+202309100min,Baltimore Ravens,25,2023-09-10
+202309100nor,Tampa Bay Buccaneers,20,2023-09-10
+202309100pit,New Orleans Saints,16,2023-09-10
+202309100chi,San Francisco 49ers,30,2023-09-10
+202309100den,Green Bay Packers,38,2023-09-10
+202309100sdg,Las Vegas Raiders,17,2023-09-10
+202309100nwe,Miami Dolphins,36,2023-09-10
+202309100sea,Philadelphia Eagles,25,2023-09-10
+202309100nyg,Los Angeles Rams,30,2023-09-10
+202309110nyj,Dallas Cowboys,40,2023-09-10
+202309140phi,New York Jets,22,2023-09-11
+202309170buf,Philadelphia Eagles,34,2023-09-14
+202309170tam,Atlanta Falcons,25,2023-09-17
+202309170cin,Buffalo Bills,38,2023-09-17
+202309170htx,Tampa Bay Buccaneers,27,2023-09-17
+202309170det,Baltimore Ravens,27,2023-09-17
+202309170jax,Indianapolis Colts,31,2023-09-17
+202309170oti,Seattle Seahawks,37,2023-09-17
+202309170crd,Kansas City Chiefs,17,2023-09-17
+202309170ram,Tennessee Titans,27,2023-09-17
+202309170dal,New York Giants,31,2023-09-17
+202309170den,San Francisco 49ers,30,2023-09-17
+202309170nwe,Dallas Cowboys,30,2023-09-17
+202309180car,Washington Commanders,35,2023-09-17
+202309180pit,Miami Dolphins,24,2023-09-17
+202309210sfo,New Orleans Saints,20,2023-09-18
+202309240det,Pittsburgh Steelers,26,2023-09-18
+202309240cle,San Francisco 49ers,30,2023-09-21
+202309240rav,Detroit Lions,20,2023-09-24
+202309240mia,Buffalo Bills,37,2023-09-24
+202309240gnb,Cleveland Browns,27,2023-09-24
+202309240jax,Indianapolis Colts,22,2023-09-24
+202309240min,Miami Dolphins,70,2023-09-24
+202309240nyj,Green Bay Packers,18,2023-09-24
+202309240sea,Houston Texans,37,2023-09-24
+202309240kan,Los Angeles Chargers,28,2023-09-24
+202309240crd,New England Patriots,15,2023-09-24
+202309240rai,Seattle Seahawks,37,2023-09-24
+202309250tam,Kansas City Chiefs,41,2023-09-24
+202309250cin,Arizona Cardinals,28,2023-09-24
+202309280gnb,Pittsburgh Steelers,23,2023-09-24
+202310010jax,Philadelphia Eagles,25,2023-09-25
+202310010buf,Cincinnati Bengals,19,2023-09-25
+202310010chi,Detroit Lions,34,2023-09-28
+202310010oti,Jacksonville Jaguars,23,2023-10-01
+202310010cle,Buffalo Bills,48,2023-10-01
+202310010clt,Minnesota Vikings,21,2023-10-01
+202310010htx,Denver Broncos,31,2023-10-01
+202310010nor,Tennessee Titans,27,2023-10-01
+202310010phi,Baltimore Ravens,28,2023-10-01
+202310010sdg,Los Angeles Rams,29,2023-10-01
+202310010sfo,Houston Texans,30,2023-10-01
+202310010dal,Tampa Bay Buccaneers,26,2023-10-01
+202310010nyj,Philadelphia Eagles,34,2023-10-01
+202310020nyg,Los Angeles Chargers,24,2023-10-01
+202310050was,San Francisco 49ers,35,2023-10-01
+202310080buf,Dallas Cowboys,38,2023-10-01
+202310080atl,Kansas City Chiefs,23,2023-10-01
+202310080det,Seattle Seahawks,24,2023-10-02
+202310080mia,Chicago Bears,40,2023-10-05
+202310080nwe,Jacksonville Jaguars,25,2023-10-08
+202310080pit,Atlanta Falcons,21,2023-10-08
+202310080crd,Detroit Lions,42,2023-10-08
+202310080ram,Indianapolis Colts,23,2023-10-08
+202310080den,Miami Dolphins,31,2023-10-08
+202310080min,New Orleans Saints,34,2023-10-08
+202310080sfo,Pittsburgh Steelers,17,2023-10-08
+202310090rai,Cincinnati Bengals,34,2023-10-08
+202310120kan,Philadelphia Eagles,23,2023-10-08
+202310150oti,New York Jets,31,2023-10-08
+202310150cle,Kansas City Chiefs,27,2023-10-08
+202310150atl,San Francisco 49ers,42,2023-10-08
+202310150mia,Las Vegas Raiders,17,2023-10-09
+202310150cin,Kansas City Chiefs,19,2023-10-12
+202310150jax,Baltimore Ravens,24,2023-10-15
+202310150htx,Cleveland Browns,19,2023-10-15
+202310150rai,Washington Commanders,24,2023-10-15
+202310150ram,Miami Dolphins,42,2023-10-15
+202310150tam,Minnesota Vikings,19,2023-10-15
+202310150nyj,Cincinnati Bengals,17,2023-10-15
+202310150buf,Jacksonville Jaguars,37,2023-10-15
+202310160sdg,Houston Texans,20,2023-10-15
+202310190nor,Las Vegas Raiders,21,2023-10-15
+202310220clt,Los Angeles Rams,26,2023-10-15
+202310220tam,Detroit Lions,20,2023-10-15
+202310220nwe,New York Jets,20,2023-10-15
+202310220chi,Buffalo Bills,14,2023-10-15
+202310220rav,Dallas Cowboys,20,2023-10-16
+202310220ram,Jacksonville Jaguars,31,2023-10-19
+202310220sea,Cleveland Browns,39,2023-10-22
+202310220den,Atlanta Falcons,16,2023-10-22
+202310220kan,New England Patriots,29,2023-10-22
+202310220phi,Chicago Bears,30,2023-10-22
+202310230min,Baltimore Ravens,38,2023-10-22
+202310260buf,New York Giants,14,2023-10-22
+202310290car,Pittsburgh Steelers,24,2023-10-22
+202310290dal,Seattle Seahawks,20,2023-10-22
+202310290gnb,Denver Broncos,19,2023-10-22
+202310290oti,Kansas City Chiefs,31,2023-10-22
+202310290clt,Philadelphia Eagles,31,2023-10-22
+202310290pit,Minnesota Vikings,22,2023-10-23
+202310290nyg,Buffalo Bills,24,2023-10-26
+202310290was,Carolina Panthers,15,2023-10-29
+202310290sea,Dallas Cowboys,43,2023-10-29
+202310290sfo,Minnesota Vikings,24,2023-10-29
+202310290crd,Tennessee Titans,28,2023-10-29
+202310290den,New Orleans Saints,38,2023-10-29
+202310290sdg,Jacksonville Jaguars,20,2023-10-29
+202310300det,Miami Dolphins,31,2023-10-29
+202311020pit,New York Jets,13,2023-10-29
+202311050kan,Philadelphia Eagles,38,2023-10-29
+202311050cle,Seattle Seahawks,24,2023-10-29
+202311050gnb,Cincinnati Bengals,31,2023-10-29
+202311050htx,Baltimore Ravens,31,2023-10-29
+202311050atl,Denver Broncos,24,2023-10-29
+202311050nor,Los Angeles Chargers,30,2023-10-29
+202311050nwe,Detroit Lions,26,2023-10-30
+202311050car,Pittsburgh Steelers,20,2023-11-02
+202311050phi,Kansas City Chiefs,21,2023-11-05
+202311050rai,Cleveland Browns,27,2023-11-05
+202311050cin,Green Bay Packers,20,2023-11-05
+202311060nyj,Houston Texans,39,2023-11-05
+202311090chi,Minnesota Vikings,31,2023-11-05
+202311120nwe,New Orleans Saints,24,2023-11-05
+202311120cin,Washington Commanders,20,2023-11-05
+202311120rav,Baltimore Ravens,37,2023-11-05
+202311120pit,Indianapolis Colts,27,2023-11-05
+202311120jax,Philadelphia Eagles,28,2023-11-05
+202311120tam,Las Vegas Raiders,30,2023-11-05
+202311120min,Cincinnati Bengals,24,2023-11-05
+202311120sdg,Los Angeles Chargers,27,2023-11-06
+202311120dal,Chicago Bears,16,2023-11-09
+202311120sea,Indianapolis Colts,10,2023-11-12
+202311120rai,Houston Texans,30,2023-11-12
+202311130buf,Cleveland Browns,33,2023-11-12
+202311160rav,Pittsburgh Steelers,23,2023-11-12
+202311190car,San Francisco 49ers,34,2023-11-12
+202311190cle,Tampa Bay Buccaneers,20,2023-11-12
+202311190gnb,Minnesota Vikings,27,2023-11-12
+202311190jax,Detroit Lions,41,2023-11-12
+202311190mia,Arizona Cardinals,25,2023-11-12
+202311190det,Dallas Cowboys,49,2023-11-12
+202311190htx,Seattle Seahawks,29,2023-11-12
+202311190was,Las Vegas Raiders,16,2023-11-12
+202311190sfo,Denver Broncos,24,2023-11-13
+202311190buf,Baltimore Ravens,34,2023-11-16
+202311190den,Dallas Cowboys,33,2023-11-19
+202311200kan,Cleveland Browns,13,2023-11-19
+202311230det,Green Bay Packers,23,2023-11-19
+202311230dal,Jacksonville Jaguars,34,2023-11-19
+202311230sea,Miami Dolphins,20,2023-11-19
+202311240nyj,Detroit Lions,31,2023-11-19
+202311260atl,Houston Texans,21,2023-11-19
+202311260oti,New York Giants,31,2023-11-19
+202311260cin,San Francisco 49ers,27,2023-11-19
+202311260clt,Los Angeles Rams,17,2023-11-19
+202311260htx,Buffalo Bills,32,2023-11-19
+202311260nyg,Denver Broncos,21,2023-11-19
+202311260den,Philadelphia Eagles,21,2023-11-20
+202311260rai,Green Bay Packers,29,2023-11-23
+202311260phi,Dallas Cowboys,45,2023-11-23
+202311260sdg,San Francisco 49ers,31,2023-11-23
+202311270min,Miami Dolphins,34,2023-11-24
+202311300dal,Atlanta Falcons,24,2023-11-26
+202312030nyj,Tennessee Titans,17,2023-11-26
+202312030oti,Pittsburgh Steelers,16,2023-11-26
+202312030htx,Indianapolis Colts,27,2023-11-26
+202312030nor,Jacksonville Jaguars,24,2023-11-26
+202312030was,New York Giants,10,2023-11-26
+202312030nwe,Denver Broncos,29,2023-11-26
+202312030pit,Los Angeles Rams,37,2023-11-26
+202312030tam,Kansas City Chiefs,31,2023-11-26
+202312030ram,Philadelphia Eagles,37,2023-11-26
+202312030phi,Baltimore Ravens,20,2023-11-26
+202312030gnb,Chicago Bears,12,2023-11-27
+202312070pit,Dallas Cowboys,41,2023-11-30
+202312100atl,Atlanta Falcons,13,2023-12-03
+202312100nor,Indianapolis Colts,31,2023-12-03
+202312100chi,Houston Texans,22,2023-12-03
+202312100cin,Detroit Lions,33,2023-12-03
+202312100cle,Miami Dolphins,45,2023-12-03
+202312100nyj,Los Angeles Chargers,6,2023-12-03
+202312100rav,Arizona Cardinals,24,2023-12-03
+202312100rai,Tampa Bay Buccaneers,21,2023-12-03
+202312100sfo,Los Angeles Rams,36,2023-12-03
+202312100kan,San Francisco 49ers,42,2023-12-03
+202312100sdg,Green Bay Packers,27,2023-12-03
+202312100dal,Cincinnati Bengals,34,2023-12-04
+202312110mia,New England Patriots,21,2023-12-07
+202312140rai,Tampa Bay Buccaneers,29,2023-12-10
+202312160cin,New Orleans Saints,28,2023-12-10
+202312160clt,Chicago Bears,28,2023-12-10
+202312160det,Cincinnati Bengals,34,2023-12-10
+202312170car,Cleveland Browns,31,2023-12-10
+202312170cle,New York Jets,30,2023-12-10
+202312170gnb,Baltimore Ravens,37,2023-12-10
+202312170oti,Minnesota Vikings,3,2023-12-10
+202312170nwe,San Francisco 49ers,28,2023-12-10
+202312170mia,Buffalo Bills,20,2023-12-10
+202312170nor,Denver Broncos,24,2023-12-10
+202312170crd,Dallas Cowboys,33,2023-12-10
+202312170ram,New York Giants,24,2023-12-11
+202312170buf,Tennessee Titans,28,2023-12-11
+202312180sea,Las Vegas Raiders,63,2023-12-14
+202312210ram,Cincinnati Bengals,27,2023-12-16
+202312230pit,Indianapolis Colts,30,2023-12-16
+202312230sdg,Detroit Lions,42,2023-12-16
+202312240htx,Carolina Panthers,9,2023-12-17
+202312240min,Cleveland Browns,20,2023-12-17
+202312240car,Tampa Bay Buccaneers,34,2023-12-17
+202312240oti,Houston Texans,19,2023-12-17
+202312240atl,Kansas City Chiefs,27,2023-12-17
+202312240nyj,Miami Dolphins,30,2023-12-17
+202312240tam,New Orleans Saints,24,2023-12-17
+202312240chi,San Francisco 49ers,45,2023-12-17
+202312240mia,Los Angeles Rams,28,2023-12-17
+202312240den,Buffalo Bills,31,2023-12-17
+202312250kan,Baltimore Ravens,23,2023-12-17
+202312250phi,Seattle Seahawks,20,2023-12-18
+202312280cle,Los Angeles Rams,30,2023-12-21
+202312300dal,Cincinnati Bengals,,2023-12-23
+202312310htx,Buffalo Bills,,2023-12-23
+202312310clt,Cleveland Browns,,2023-12-24
+202312310phi,Detroit Lions,,2023-12-24
+202312310jax,Green Bay Packers,,2023-12-24
+202312310was,Seattle Seahawks,,2023-12-24
+202312310chi,Indianapolis Colts,,2023-12-24
+202312310rav,Washington Commanders,,2023-12-24
+202312310nyg,Jacksonville Jaguars,,2023-12-24
+202312310tam,Arizona Cardinals,,2023-12-24
+202312310buf,Dallas Cowboys,,2023-12-24
+202312310sea,New England Patriots,,2023-12-24
+202312310kan,Las Vegas Raiders,,2023-12-25
+202312310den,New York Giants,,2023-12-25
+202312310min,Baltimore Ravens,,2023-12-25
+202401070crd,New York Jets,,2023-12-28
+202401070car,Detroit Lions,,2023-12-30
+202401070sdg,Tennessee Titans,,2023-12-31
+202401070rav,Las Vegas Raiders,,2023-12-31
+202401070nyg,Arizona Cardinals,,2023-12-31
+202401070nwe,Carolina Panthers,,2023-12-31
+202401070det,San Francisco 49ers,,2023-12-31
+202401070oti,Atlanta Falcons,,2023-12-31
+202401070clt,Miami Dolphins,,2023-12-31
+202401070rai,Los Angeles Rams,,2023-12-31
+202401070was,New Orleans Saints,,2023-12-31
+202401070cin,New England Patriots,,2023-12-31
+202401070gnb,Pittsburgh Steelers,,2023-12-31
+202401070mia,Cincinnati Bengals,,2023-12-31
+202401070nor,Los Angeles Chargers,,2023-12-31
