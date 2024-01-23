@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra&family=Roboto:wght@400;500&family=Sedgwick+Ave+Display&display=swap");
+
+:root {
+  --primary-color: #3498db; /* Updated primary color */
+  --primary-color-dark: #1f3a93; /* Updated dark variant */
+  --text-light: #ffffff; /* Updated text color */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: lightgray; /* Updated background color */
+  background-image: url("/all-nfl-team-logo-5gx380dj71t34ltl.jpg");
+}
+
+.main {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #1a1a1a;
+  position: relative;
+  padding: 0 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+nav {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  padding: 2rem 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: darkblue;
+}
+
+nav ul {
+  display: flex;
+  gap: 3rem;
+  list-style: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: var(--text-light);
+  font-size: 1.2rem;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+nav ul li a:hover {
+  color: rgb(253, 74, 74);
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+td {
+  color: black;
+  border: 1px solid black;
+  padding: 8px;
+  background-color: whitesmoke;
+}
+
+th {
+  border: 1px solid black;
+  padding: 8px;
+  background-color: whitesmoke;
+  color: black;
+}
+
+footer {
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  padding: 2rem 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-light);
+  background-color: rgb(253, 74, 74);
+}
+
+footer .footer-logo {
+  color: var(--text-light);
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+footer ul {
+  display: flex;
+  gap: 3rem;
+  list-style: none;
+}
+
+footer ul li a {
+  text-decoration: none;
+  color: var(--text-light);
+  font-size: 1.2rem;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+footer ul li a:hover {
+  color: var(--primary-color-dark);
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+.copyright {
+  margin-top: auto;
+  color: var(--text-light);
+  text-align: center;
+  background-color: rgb(253, 74, 74);
+}
+.pagination {
+  display: flex;
+  list-style: none;
+  gap: 10px; /* Adjust the gap between page numbers */
+  justify-content: right;
+}
+
+.pagination li {
+  cursor: pointer;
+  padding: 8px;
+  background-color: #ddd;
+  color: black;
+}
+
+.pagination li.active {
+  background-color: var(--primary-color-dark);
+  color: var(--text-light);
+}
+.button-container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 250px; /* Adjust the gap as needed */
+}
+
+/* Add these styles for each button */
+.button-container button {
+  padding: 10px 15px; /* Adjust padding as needed */
+  cursor: pointer;
+  background-color: var(--primary-color-dark);
+  color: var(--text-light);
+  border: none; /* Remove the button border */
+  outline: none; /* Remove the button outline */
+}
+.specificSearch {
+  margin-top: 40px;
+  display: flex;
+  align-items: center; /* Align items vertically in the container */
+  justify-content: center;
+}
+
+/* Style for the search bar within the specificSearch container */
+.specificSearch input[type="text"] {
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 300px;
+}
+
+/* Style for the season dropdown within the specificSearch container */
+.specificSearch select {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  color: black;
+  background-color: #f4f4f4;
+}
+.SummarySelector {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.SummarySelector select {
+  margin-top: 50px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  color: black;
+  background-color: #f4f4f4;
+}
+.SummaryTable1 table,
+.SummaryTable2 table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 50px;
+}
+
+.SummaryTable1 th,
+.SummaryTable1 td,
+.SummaryTable2 th,
+.SummaryTable2 td {
+  border: 1px solid #ddd;
+  padding: 25px;
+  text-align: left;
+}
+
+.SummaryTable1 th,
+.SummaryTable2 th {
+  background-color: #f2f2f2;
+}
