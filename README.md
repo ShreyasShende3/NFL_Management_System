@@ -1,46 +1,22 @@
-<h3 align="center">Fingerprint Integrity Analysis</h3>
-
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-</div>
+<h3 align="center">NFL Management System</h3>
 
 ---
 
-<p align="center"> This Python script performs fingerprint matching using the SIFT (Scale-Invariant Feature Transform) algorithm. 
+<p align="center"> This is a complete management system for NFL with Backend and Frontend designed using React and ExpressJS.
     <br> 
 </p>
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Important Note](#imp)
 - [Getting Started](#getting_started)
 - [Authors](#authors)
 - [License](#license)
 
 ## 🧐 About <a name = "about"></a>
-This project compares a sample fingerprint image with a set of real fingerprint images and determines the best match based on the number of keypoints and their matches.
+The NFL Management System offers a comprehensive overview of three seasons within the National Football League (NFL). The platform presents an extensive array of data, including player profiles, rosters, game results, financial insights, stadium details, and unique information derived from intricate database queries.
 
-## Important Note <a name= "about"></a>
-I have not included the dataset files in this. You have to download the dataset seperately with the link provided below. The dataset is very massive thus the script is currently configured to compare the sample fingerprint image with the first 1000 real fingerprint images in the "SOCOFing/Real" directory.
+With a user-friendly interface, the system provides enthusiasts and analysts alike with a dynamic tool to explore and analyze diverse facets of the league. Through sophisticated queries, it unveils patterns and correlations, offering a deeper understanding of team dynamics, player performance, and the financial intricacies of the NFL across multiple seasons.
 
-### Directory Structure
-
-This is roughly how your project directory should like :
-
-- main.py
-- SOCOFing/
-  - Altered/
-    - Altered-Easy/
-      - 140__F_Left_index_finger_CR.BMP
-    - Altered-Medium/
-      - .....
-    - Altered-Hard/
-       - ... 
-  - Real/
-    - Fingerprint_Image_1.jpg
-    - Fingerprint_Image_2.jpg
-    - ...
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
@@ -48,13 +24,11 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install for this project and how to install them.
 
 ```
-OpenCV (cv2) library
 Python 3.x
+BeautifulSopu4 4.11.1
+Pandas 2.1.3
+requests 2.31.0
 ```
-### Datasets Used
-The following dataset needs to be installed before running the code
-
- - Sokoto Coventry Fingerprint Dataset (SOCOFing) : https://www.kaggle.com/datasets/ruizgara/socofing
 
 
 ### Installing
@@ -63,41 +37,43 @@ The following commands can be used to install the prerequisites and run the code
 1) Install Dependencies
 
 ```
-pip install opencv-python
+pip install beautifulsoup4 pandas requests
 ```
 
 2) Clone the repository
 
 ```
-git clone https://github.com/ShreyasShende3/Fingerprint-Integrity-Analysis
+git clone https://github.com/ShreyasShende3/NFL-Management-System
 ```
 3) After cloning change the directory to the directory name
 
 ```
-cd Fingerprint-Integrity-Analysis
+cd NFL_Management_System
 ```
 
 ### Usage
-
-1) Place the dataset files in the same directory as the Python code.
-
-2) Run the Python script:
-
+1) Once you open the folder in any IDE of your choice, do the following in a terminal:
 ```
-python main.py
+npm install
 ```
-### Issue
+2) Open two terminals. One for frontEnd and one for Backend with the following path:
+```
+For frontEnd : ../NFL_Management_System/mysql-react/frontEnd
+For Backend : ../NFL_Management_System/mysql-react/Backend
+```
+3) Run the following command
+```
+npm run dev
+```
+4) Note that both the frontEnd and Backend servers should be running at all times.
+5) Go to 'localhost:5173/' to see the frontend output.
 
-As you are using cv2 sometimes you might face some errors like cv2.imread or some other function is not detected. 
-```
-In this case you can downgrade the opencv-python version. This might just solve the issue.
-```
 You should see the following output:
-![Output](https://github.com/ShreyasShende3/Fingerprint-Integrity-Analysis/blob/main/Fingerprint_output.png)
+![Output]()
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@Shreyas](https://github.com/ShreyasShende3)
-- [@Atharva](https://github.com/EuroNOX)
+- [@Hrithik](https://github.com/Hrithik028)
 
 ## License <a name = "license"></a>
-GNU General Public License v3.0
+MIT License
