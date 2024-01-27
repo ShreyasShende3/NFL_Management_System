@@ -5,13 +5,15 @@
 *.py text
 
 # Web development files
-*.html text
-*.css text
-*.js text
-*.jsx text
+mysql-react/frontEnd/src/components/pages/**/*.jsx text
+mysql-react/frontEnd/src/misc/**/*.jsx text
+mysql-react/frontEnd/src/Page_css/**/*.css text
+mysql-react/frontEnd/src/landingPage/**/*.css text
+mysql-react/Backend/**/*.js text
+
 
 # SQL files
-*.sql text
+nfl_final.sql text
 
 # Ignore files
 .gitignore text
