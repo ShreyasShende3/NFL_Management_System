@@ -1,0 +1,18 @@
+# Set the default behavior for files that don't match any pattern
+* text=auto
+
+# Source code files
+*.py text
+
+# Web development files
+*.html text
+*.css text
+*.js text
+*.jsx text
+
+# SQL files
+*.sql text
+
+# Ignore files
+.gitignore text
+.gitattributes text
