@@ -1,20 +1,18 @@
 # Set the default behavior for files that don't match any pattern
-* text=auto
+* linguist-vendored
 
 # Source code files
-*.py text
-
-# Web development files
-mysql-react/frontEnd/src/components/pages/**/*.jsx text
-mysql-react/frontEnd/src/misc/**/*.jsx text
-mysql-react/frontEnd/src/Page_css/**/*.css text
-mysql-react/frontEnd/src/landingPage/**/*.css text
-mysql-react/Backend/**/*.js text
-
+*.py linguist-language=python
+mysql-react/frontEnd/src/components/pages/**/*.jsx linguist-language=javascript
+mysql-react/frontEnd/src/misc/**/*.jsx linguist-language=javascript
+mysql-react/frontEnd/src/Page_css/**/*.css linguist-language=css
+mysql-react/frontEnd/src/landingPage/**/*.css linguist-language=css
+mysql-react/Backend/**/*.js linguist-language=javascript
 
 # SQL files
-nfl_final.sql text
+nfl_final.sql linguist-language=sql
 
 # Ignore files
-.gitignore text
-.gitattributes text
+.gitignore linguist-vendored
+.gitattributes linguist-vendored
+
