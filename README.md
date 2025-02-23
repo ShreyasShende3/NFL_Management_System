@@ -74,6 +74,7 @@ You should see the following output:
 ## ✍️ Authors <a name = "authors"></a>
 - [@Shreyas](https://github.com/ShreyasShende3)
 - [@Hrithik](https://github.com/Hrithik028)
+- [@Abhiraj](https://github.com/Abhiraj16)
 
 ## License <a name = "license"></a>
 MIT License
