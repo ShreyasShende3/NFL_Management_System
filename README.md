@@ -68,8 +68,7 @@ npm run dev
 4) Note that both the frontEnd and Backend servers should be running at all times.
 5) Go to 'localhost:5173/' to see the frontend output.
 
-You should see the following output:
-![Output]()
+
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@Shreyas](https://github.com/ShreyasShende3)
